@@ -2,7 +2,7 @@
 
 **Data and MATLAB code for:**  
 _Contrasting carbon and water dynamics in two East African dryland ecosystems_  
-(Odongo et al., JGR-Biogeosciences [Under Review])
+(Odongo et al. (2025), JGR-Biogeosciences DOI: 10.1029/2024JG008623
 
 ---
 
