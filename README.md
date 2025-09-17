@@ -1,7 +1,7 @@
 # EastAfricaFluxData
 
 **Data and MATLAB code for:**  
-_Contrasting carbon and water dynamics in two East African dryland ecosystems_  
+_Contrasting carbon and water flux dynamics in an East African rangeland and cropland_  
 (Odongo et al. (2025), JGR-Biogeosciences DOI: 10.1029/2024JG008623
 
 ---
